@@ -1,0 +1,1 @@
+il deploy del phpmyadmin usa già l'immagine configurata: sersebasti/phpmyadmin:1
